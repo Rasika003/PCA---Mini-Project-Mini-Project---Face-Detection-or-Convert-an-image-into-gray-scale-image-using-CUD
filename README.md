@@ -130,10 +130,15 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 }
 ```
 
-## OUTPUT:
-### Original Image
-![original](https://github.com/user-attachments/assets/75ec6674-8cb9-4cc9-ae1a-ebc6f3584481)
-### Grayscale Image
-![grayscale](https://github.com/user-attachments/assets/ba72ef19-37c6-4d6c-bb97-a7e065466ce2)
+## Output:
+
+### Original file:
+![gr](https://github.com/vignesh0011/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/53014593/3f3ce9ea-0884-46f8-b6d7-599fba23b455)
+
+
+### Output file:
+![output_image](https://github.com/vignesh0011/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/53014593/bf8c2aad-6149-44ca-aabc-ab185e6254f8)
+
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
+
